@@ -1,0 +1,11 @@
+name = input("What is you name?: ")
+gang = input("What gang are you in?: ")
+age = input("How old are you?: ")
+hobby = input("What is your favorite hobby?: ")
+game = input("What is your favorite game?: ")
+
+print("My name is " +name)
+print("I am in gang: " +gang)
+print("I am " +str(age))
+print("My favorite hobby is " +hobby)
+print("My favorite game is " +game)
